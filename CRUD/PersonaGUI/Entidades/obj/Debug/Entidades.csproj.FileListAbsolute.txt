@@ -1,0 +1,11 @@
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\bin\Debug\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\obj\Debug\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ivanr\OneDrive\Escritorio\CRUD Ejemplo\CRUD\PersonaGUI\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
